@@ -163,6 +163,7 @@ def error_handler(command: list[str]) -> None:
             handler(result, command)
             break
 
+
 def run_commands(command: list[str]) -> None:
     """
     Ejecuta un comando de análisis de código y muestra el resultado.

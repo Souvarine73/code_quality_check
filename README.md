@@ -117,7 +117,7 @@ Si deseas mejorar este script:
 
 ## ⚡ Licencia
 
-Este proyecto está bajo la [MIT License](LICENSE).
+Este proyecto está bajo la [MIT License].
 
 ---
 

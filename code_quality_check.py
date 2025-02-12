@@ -185,7 +185,6 @@ def run_commands(command: list[str]) -> None:
     except Exception as ex:
         print(f"🚨 Error inesperado: {ex}")
 
-prueba = "Esto es una prueba para crear un pr en github"
 
 if __name__ == "__main__":
     for cmd in COMMANDS:
